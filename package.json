@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/gSchool/css-regression-testing#readme",
   "devDependencies": {
-    "backstopjs": "^1.0.3"
+    "backstopjs": "^1.0.3",
+    "casperjs": "^1.1.0-beta3",
+    "gulp": "^3.9.0",
+    "phantomjs": "^1.9.19"
   }
 }
