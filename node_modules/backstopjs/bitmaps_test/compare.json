@@ -3,7 +3,7 @@
     "testPairs": [
       {
         "reference": "../../backstop_data/bitmaps_reference/0_0_body_0_tablet_h.png",
-        "test": "../../backstop_data/bitmaps_test/20160120-135944/0_0_body_0_tablet_h.png",
+        "test": "../../backstop_data/bitmaps_test/20160120-152357/0_0_body_0_tablet_h.png",
         "selector": "body",
         "fileName": "0_0_body_0_tablet_h.png",
         "label": "CSS Selectors",
@@ -11,7 +11,7 @@
       },
       {
         "reference": "../../backstop_data/bitmaps_reference/0_1_foo_0_tablet_h.png",
-        "test": "../../backstop_data/bitmaps_test/20160120-135944/0_1_foo_0_tablet_h.png",
+        "test": "../../backstop_data/bitmaps_test/20160120-152357/0_1_foo_0_tablet_h.png",
         "selector": ".foo",
         "fileName": "0_1_foo_0_tablet_h.png",
         "label": "CSS Selectors",
@@ -19,7 +19,7 @@
       },
       {
         "reference": "../../backstop_data/bitmaps_reference/0_2_bar_0_tablet_h.png",
-        "test": "../../backstop_data/bitmaps_test/20160120-135944/0_2_bar_0_tablet_h.png",
+        "test": "../../backstop_data/bitmaps_test/20160120-152357/0_2_bar_0_tablet_h.png",
         "selector": ".bar",
         "fileName": "0_2_bar_0_tablet_h.png",
         "label": "CSS Selectors",
@@ -27,7 +27,7 @@
       },
       {
         "reference": "../../backstop_data/bitmaps_reference/0_3_baz_0_tablet_h.png",
-        "test": "../../backstop_data/bitmaps_test/20160120-135944/0_3_baz_0_tablet_h.png",
+        "test": "../../backstop_data/bitmaps_test/20160120-152357/0_3_baz_0_tablet_h.png",
         "selector": ".baz",
         "fileName": "0_3_baz_0_tablet_h.png",
         "label": "CSS Selectors",
@@ -35,7 +35,7 @@
       },
       {
         "reference": "../../backstop_data/bitmaps_reference/0_4_fiz_0_tablet_h.png",
-        "test": "../../backstop_data/bitmaps_test/20160120-135944/0_4_fiz_0_tablet_h.png",
+        "test": "../../backstop_data/bitmaps_test/20160120-152357/0_4_fiz_0_tablet_h.png",
         "selector": ".fiz",
         "fileName": "0_4_fiz_0_tablet_h.png",
         "label": "CSS Selectors",
