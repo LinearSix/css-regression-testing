@@ -1,0 +1,22 @@
+{
+  "name": "css-regression-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gSchool/css-regression-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gSchool/css-regression-testing/issues"
+  },
+  "homepage": "https://github.com/gSchool/css-regression-testing#readme",
+  "devDependencies": {
+    "backstopjs": "^1.0.3"
+  }
+}
